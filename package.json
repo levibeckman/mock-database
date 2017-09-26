@@ -1,8 +1,24 @@
 {
   "name": "mock-database",
   "version": "0.1.0",
+  "description": "Mock Database Tools",
+  "main": "index.js",
   "dependencies": {
     "faker": "^4.1.0",
     "lodash": "^4.17.4"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levibeckman/mock-database.git"
+  },
+  "author": "Levi Beckman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levibeckman/mock-database/issues"
+  },
+  "homepage": "https://github.com/levibeckman/mock-database#readme"
 }
